@@ -154,7 +154,7 @@ def Restart():
 
 
 root = Tk()
-root.title("Tic Tac toe : Player 1")
+root.title("Kółko i Krzyżyk : Gracz 1")
 st = ttk.Style()
 st.configure("my.TButton", font=('Chiller',24,'bold'))
 
